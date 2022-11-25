@@ -1,4 +1,0 @@
-Java::I automatically generated this cover letter using an app I built in Java.
-Object Oriented Programming::I have built many applications that use OOP and layered desgin for data modelling and writing maintainable, SOLID applications.
-Python::I built some command-line games, like a version of the drinking game Ring of Fire.
-SQL::I have built a variety of CRUD applications that utilise SQL queries to persist data in relational databases.
